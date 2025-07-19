@@ -267,7 +267,7 @@
             <script>
                 function initViz1() {
                     const containerDiv = document.getElementById('tableauViz1');
-                    const vizUrl = 'https://public.tableau.com/views/YOUR_TABLEAU_VISUALIZATION_URL_1'; // Replace with your Tableau Public URL
+                    const vizUrl = 'https://public.tableau.com/views/Book4_17529440927510/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link';
                     const options = {
                         width: '100%',
                         height: '600px',
@@ -287,7 +287,7 @@
             <script>
                 function initViz2() {
                     const containerDiv = document.getElementById('tableauViz2');
-                    const vizUrl = 'https://public.tableau.com/views/YOUR_TABLEAU_VISUALIZATION_URL_2'; // Replace with your Tableau Public URL
+                    const vizUrl = 'https://public.tableau.com/views/Book5_17529445552700/Dashboard2?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link';
                     const options = {
                         width: '100%',
                         height: '600px',
@@ -307,7 +307,7 @@
             <script>
                 function initViz3() {
                     const containerDiv = document.getElementById('tableauViz3');
-                    const vizUrl = 'https://public.tableau.com/views/YOUR_TABLEAU_VISUALIZATION_URL_3'; // Replace with your Tableau Public URL
+                    const vizUrl = 'https://public.tableau.com/views/Book4_17529440927510/Dashboard1?:language=en-US&:sid=&:redirect=auth&showOnboarding=true&:display_count=n&:origin=viz_share_link';
                     const options = {
                         width: '100%',
                         height: '600px',
